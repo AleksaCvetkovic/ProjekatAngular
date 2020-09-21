@@ -1,0 +1,38 @@
+body {
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo-main {
+    position: absolute;
+
+
+    /* Center form on page horizontally & vertically */
+    top: 30%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -150px;
+}
+
+.login_div {
+    position: absolute;
+
+
+    /* Center form on page horizontally & vertically */
+    top: 44%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -150px;
+}
+
+.login-button {
+    position: absolute;
+
+    left: 30%;
+    
+}

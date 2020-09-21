@@ -1,0 +1,15 @@
+.text-center {
+    text-align: center;
+    margin-top: 1rem;
+    position: relative;
+}
+
+hr {
+    color: mediumblue;
+}
+
+.arrow-image {
+    transform: rotate(200deg);
+    position: relative;
+    float: left;
+}
